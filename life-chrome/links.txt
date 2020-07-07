@@ -1,0 +1,11 @@
+npm install --save @types/chrome
+https://developer.chrome.com/extensions/devguide
+
+https://formio.github.io/formio.js/docs/
+https://github.com/formio/formio.js
+
+https://formio.github.io/formio.js/app/builder
+
+https://developer.chrome.com/extensions/contentSecurityPolicy
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/file
